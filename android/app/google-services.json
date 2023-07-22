@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046380511846",
+    "project_id": "deteksisemangka",
+    "storage_bucket": "deteksisemangka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046380511846:android:1aa5056d3c85f48a1aa3a7",
+        "android_client_info": {
+          "package_name": "com.semangka.deteksi_semangka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046380511846-d7u9kn5v1o1dalvnthr0koticm639h1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6GijEQEbGIarcwWqUqyfz1YomFl32PNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046380511846-d7u9kn5v1o1dalvnthr0koticm639h1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
